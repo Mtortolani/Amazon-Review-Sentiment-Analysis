@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
+GoogleNews-vectors-negative300.bin.gz
